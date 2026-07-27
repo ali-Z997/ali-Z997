@@ -108,7 +108,7 @@ Successfully completed Python programming training at Global Science Academy.
 
 - 📧 Email: zouatineali242@gmail.com
 - 💼 LinkedIn: linkedin.com/in/ali-zouatine-678398356
-- 🌐 Portfolio: file:///Users/aymenzouatine/portfolio%202/index.html
+- 🌐 Portfolio: file: https://ali-z997.github.io/AliAymenZouatine.github.io/
 
 ---
 
