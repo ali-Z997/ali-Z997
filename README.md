@@ -99,6 +99,7 @@ Successfully completed Python programming training at Global Science Academy.
 ## 📈 My projects:
 
  - coffee shop: https://ali-z997.github.io/coffee-shop/
+ - clothing store: https://ali-z997.github.io/clothing-store/
 
 
 ---
