@@ -96,11 +96,10 @@ Successfully completed Python programming training at Global Science Academy.
 
 ---
 
-## 📈 GitHub Stats
+## 📈 My projects:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+ - coffee shop: https://ali-z997.github.io/coffee-shop/
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
 
 ---
 
@@ -108,7 +107,7 @@ Successfully completed Python programming training at Global Science Academy.
 
 - 📧 Email: zouatineali242@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/ali-zouatine-678398356?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- 🌐 Portfolio: file: https://ali-z997.github.io/AliAymenZouatine.github.io/
+- 🌐 Portfolio: https://ali-z997.github.io/AliAymenZouatine.github.io/
 
 ---
 
